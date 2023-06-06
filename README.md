@@ -19,7 +19,7 @@ Essa é forma proposta pelo curso mas como eu ja tenho conhecimento mais avança
 
  ## Forma proposta do curso sem responsividade
 
-<img src="">
+<img src="https://github.com/DanielBarret0/faculdade-loja-virtual/blob/main/assets/github/Resultado%20proposto.png">
 
 # 📑 O projeto Mini Loja
 
@@ -41,6 +41,8 @@ function formatarValor(n) {
 }
 ~~~
 
+![função](https://github.com/DanielBarret0/faculdade-loja-virtual/blob/main/assets/github/fun%C3%A7%C3%A3o-especial.gif)
+
 Essa função recebe um parâmetro "n", que representa o número que será formatado como um valor monetário. Em seguida, ela utiliza o método "toLocaleString" para formatar o número de acordo com o local específico (no caso, 'pt-BR' para o padrão brasileiro). Por fim, ela concatena o prefixo "R$" com o valor formatado e retorna o resultado.
 
 Por exemplo, ao chamar a função com o valor 1234.56, o resultado seria "R$ 1.234,56".
@@ -52,12 +54,12 @@ Essa função pode ser útil para exibir valores monetários formatados em uma a
 Nesse desafio eu segui todo o projeto da mesma forma que o professor foi guiando, mas ao final decidi mudar visual como uma forma de praticar pouco mais algumas tecnologias como HTML e CSS, alterei o HTML e o CSS completamente para deixar em um formato mais semântico e visualmente melhor e fluido e com responsividade para usar essa loja em qualquer dispositivo usando media queires.
 
 ## ⭐ Layout completo e Responsivo
-![Responsivo]()
+![Responsivo](https://github.com/DanielBarret0/faculdade-loja-virtual/blob/main/assets/github/mini-loja-reduzido.gif)
 
 # 🖼️ Banner do VitrineDev
 
 <div align="center">
-<img src="#vitrinedev">
+<img src="https://github.com/DanielBarret0/faculdade-loja-virtual/blob/main/assets/github/mini-loja-reduzido.gif#vitrinedev">
 </div>
 
 # 🙋‍♂️ Autor
