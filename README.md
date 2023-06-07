@@ -2,7 +2,7 @@
 
 Um projeto desenvolvido como parte da minha faculdade para praticar conceitos de lógica de programação. A Mini Loja Virtual é uma aplicação web simples, criada com HTML, CSS e JavaScript.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |  [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/danielbarreto)   |
 | -------------  | --- |
 | :sparkles: Nome        | **Mini Loja Virtual**
 | :label: Tecnologias |   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
