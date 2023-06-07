@@ -10,9 +10,6 @@ Um projeto desenvolvido como parte da minha faculdade para praticar conceitos de
 | :rocket: URL         | [Loja Virtual](https://faculdade-loja-virtual.bohr.io)
 | :fire: Desafio     | Esse é um desafio da matéria “Práticas de programação” do primeiro período.
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](#vitrinedev)
-
 # 💪 Desafio proposto
 
 Essa é forma proposta pelo curso mas como eu ja tenho conhecimento mais avançado no HTML e CSS junto com BootStrap mudei visual como segue nas imagens a baixo:
